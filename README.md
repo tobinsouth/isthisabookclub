@@ -1,16 +1,16 @@
 ![alt text](https://github.com/spamchurch/isthisabookclub/blob/master/bookclubFrame.png)
-isthisabook.club was an ancient experiment that has been passed through many generations across many years and geographic areas. As it has adapted over the years, the nature of the experiment has adopted to fit the medium of the time. No one knows where the first one was, or who started it. In fact, so much mystery surrounds it that the only trace left is small stickers stuck around cities. Only a few scrambled details are known. For one, it seems to be centered around community events of a book club that doesn’t require reading whatsoever....
+isthisabookclub was an ancient experiment that has been passed through many generations across many years and geographic areas. As it has adapted over the years, the nature of the experiment has adopted to fit the medium of the time. No one knows where the first one was, or who started it. In fact, so much mystery surrounds it that the only trace left is small stickers stuck around cities. Only a few scrambled details are known. For one, it seems to be centred around community events of a book club that doesn’t require reading whatsoever....
 
-Some media theorists think its a multimodal mobilization experiment aimed at blending technologies for community building and ideation.  Some think it involves ghosts of 18th century poets. No one knows for sure. Word is that it was an experiment to curate an anti-normative social gathering in the spirit of the books discussed and to subvert social media and the rest of our <a href = "http://www.spam.church">spam</a>my world. But even that sounds intentionaly vague.
+Some media theorists think its a multimodal mobilization experiment aimed at blending technologies for community building and ideation.  Some think it involves ghosts of 18th century poets. No one knows for sure. Word is that it was an experiment to curate an anti-normative social gathering in the spirit of the books discussed and to subvert social media and the rest of our spammy world. But even that sounds intentionally vague.
 
 ![alt text](https://github.com/spamchurch/isthisabookclub/blob/master/spamweb.png)
 
-This repository shows some hints about previous interations of the club, and offers  a starter kit to anyone who wants to conduct experiments into what it was, host their own book club and advance the book club's global impact. 
+This repository shows some hints about previous iterations of the club, and offers a starter kit to anyone who wants to conduct experiments into what it was, host their own book club and advance the book club's global impact. 
 
 `media from passed gatherings` carries some thin remnants of different previous infamous book clubs that popped up in providence, ri, cambridge, ma and san francisco, ca in early 2018. these various iterations of the book club discussed the books
 1. The Holy Bible
 2. Simulaca and Simulation by Jean Baudrillard
-3. Beyond Apollo by Barry Marlzberg - a full transcript of this book club can be founded <a href = "https://soundcloud.com/spamchurch/book-club-3-beyond-apollo">here</a>.
+3. Beyond Apollo by Barry Marlzberg
 4. Voyeurs Motel by Guy Talese
 5. Bartleby the Scrivener by Herman Melville 
 
